@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+!frontend/.env.example
+!frontend/.env.development
+
+# Dataset & trained artifacts (see dataset/README.md and README.md)
+dataset/*/
+!dataset/README.md
+model/*.keras
+model/*.h5
+model/metrics.json
+model/*.png
+
+# Env files
+.env
+backend/.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
