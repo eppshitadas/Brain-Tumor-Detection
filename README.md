@@ -235,16 +235,6 @@ MRI Image → Preprocessing → CNN → Feature Extraction → Classification �
 - Stronger validation protocol (k-fold cross-validation, external test set)
 - User accounts and a history of past uploads (with explicit consent and no PHI)
 
-## Viva preparation
-
-See [`docs/VIVA_PREP.md`](docs/VIVA_PREP.md) for a 2-3 minute presentation
-script and 20 likely technical questions with concise answers.
-
-## Screenshots
-
-_Add screenshots of the home page, upload flow, and result card here before
-submitting._
-
 ## License
 
 MIT - see [LICENSE](LICENSE).
